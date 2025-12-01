@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE/Editor
+.vscode/
+.idea/
+.github/copilot-instructions.md
+
+# OS files
+.DS_Store
+
+# Dataset (large files - download separately)
+data/
